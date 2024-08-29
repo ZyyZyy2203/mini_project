@@ -97,4 +97,3 @@ document.getElementById('updateStudentBtn').addEventListener('click', () => {
 renderTable();
 
 
-
